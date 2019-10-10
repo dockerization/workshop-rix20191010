@@ -1,0 +1,8 @@
+.idea/
+vendor/
+
+storage/cache/*
+!storage/cache/.keep
+
+storage/data/*
+!storage/data/*.example.json
